@@ -1,0 +1,20 @@
+{
+  "name": "express-app",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "",
+  "authors": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}

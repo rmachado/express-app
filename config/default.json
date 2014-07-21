@@ -1,0 +1,13 @@
+{
+  "db": {
+    "uri": "mongodb://localhost/test"
+  },
+
+  "server": {
+    "port": 8000
+  },
+
+  "static": {
+    "dest": "public"
+  }
+}
