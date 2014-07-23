@@ -1,0 +1,36 @@
+{
+  "name": "SomeWebApp",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "method-override": "^2.1.1",
+    "morgan": "^1.2.0",
+    "errorhandler": "^1.1.1",
+    "compression": "^1.0.8",
+    "body-parser": "^1.5.0",
+    "express": "^4.6.1",
+    "hbs": "^2.7.0",
+    "mongoose": "^3.8.13",
+    "less-middleware": "~1.0.3",
+    "serve-favicon": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-copy-to": "*",
+    "grunt-config-dir": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt": "*",
+    "grunt-mocha-cli": "*",
+    "grunt-contrib-less": "*"
+  }
+}
